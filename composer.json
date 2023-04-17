@@ -1,8 +1,8 @@
 {
-    "name": "pds/skeleton",
+    "name": "admin-form",
     "type": "standard",
     "description": "Standard for PHP package skeletons.",
-    "homepage": "https://github.com/php-pds/skeleton",
+    "homepage": "https://github.com/mwan9ilwa/admin-form",
     "license": "CC-BY-SA-4.0",
     "autoload": {
         "psr-4": {
